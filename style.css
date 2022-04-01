@@ -1,0 +1,22 @@
+body
+{
+	text-align: center;
+	background-color: #FF7043;
+}
+span
+{
+	font-size: 18px;
+	color: #F8BBD0;
+}
+canvas
+{
+	background-color: aqua;
+	border-radius: 20px;
+}
+#b{
+	background-color: #FFEE58;
+	color: #F8BBD0;
+}
+#h3{
+	color: #F8BBD0;
+}
